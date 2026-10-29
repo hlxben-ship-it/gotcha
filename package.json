@@ -1,0 +1,8 @@
+{
+  "name": "gotcha",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Paste a URL, find every video on it, download what you pick (yt-dlp wrapper, POC)",
+  "type": "module",
+  "scripts": { "start": "node server.js" }
+}
